@@ -1,4 +1,4 @@
-# Seismological-Bureau
+# Low-latency-Transmission-System
 
 使用重新编译的内核（文件为rk3588-sd-ubuntu-jammy-desktop-6.1-arm64-20240521(self-kernel).img）作为操作系统安装到nanopiR6S上。
 
